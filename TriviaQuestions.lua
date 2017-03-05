@@ -319,179 +319,185 @@ TriviaBot_Questions[1]['Category'][50] = 1; -- Fourth category
 TriviaBot_Questions[1]['Points'][50] = 5;
 TriviaBot_Questions[1]['Hints'][50] = {"Val'sharah"}
 
-TriviaBot_Questions[1]['Question'][51] = "_________ yells: Hah-ha! Trample their corpses! ";
-TriviaBot_Questions[1]['Answers'][51] = {"Siegemaster Mar'tak","Martak"};
+TriviaBot_Questions[1]['Question'][51] = "_________ crie: Hah-ha! Pietinez leurs cadavres! ";
+TriviaBot_Questions[1]['Answers'][51] = {"Maitre de siège Mar'tak","Martak"};
 TriviaBot_Questions[1]['Category'][51] = 1;
 TriviaBot_Questions[1]['Points'][51] = 5;
 TriviaBot_Questions[1]['Hints'][51] = {""}
 
-TriviaBot_Questions[1]['Question'][52] = "Which rare Mob on the Timeless Isle has the chance to drop a mount?";
+TriviaBot_Questions[1]['Question'][52] = "Quel mob rare de l'île du temps figé a une chance de drop une monture";
 TriviaBot_Questions[1]['Answers'][52] = {"Huolon"};
 TriviaBot_Questions[1]['Category'][52] = 1;
 TriviaBot_Questions[1]['Points'][52] = 5;
 TriviaBot_Questions[1]['Hints'][52] = {""}
 
-TriviaBot_Questions[1]['Question'][53] = "Who tried to stop Garrosh Hellscream in the Vale of Eternal Blossoms?";
+TriviaBot_Questions[1]['Question'][53] = "Qui a tenté de stopper Garrosh Hurlenfer au Val de l'éternel printemps ?";
 TriviaBot_Questions[1]['Answers'][53] = {"Taran Zhu"};
 TriviaBot_Questions[1]['Category'][53] = 1;
 TriviaBot_Questions[1]['Points'][53] = 5;
 TriviaBot_Questions[1]['Hints'][53] = {""}
 
-TriviaBot_Questions[1]['Question'][54] = "What is the starting area of the pandaren called?";
-TriviaBot_Questions[1]['Answers'][54] = {"Wandering Isle"};
+TriviaBot_Questions[1]['Question'][54] = "Quel est le nom de la zone de départ des pandarens ?";
+TriviaBot_Questions[1]['Answers'][54] = {"ile vagabonde"};
 TriviaBot_Questions[1]['Category'][54] = 1;
 TriviaBot_Questions[1]['Points'][54] = 5;
 TriviaBot_Questions[1]['Hints'][54] = {""}
 
-TriviaBot_Questions[1]['Question'][55] = " What creature is known for being the rulers of Pandaria prior to the Pandaren?";
-TriviaBot_Questions[1]['Answers'][55] = {"Mogu","The Mogu"};
+TriviaBot_Questions[1]['Question'][55] = " Quelles créatures dirigeaient la pandarie avant les pandarens ?";
+TriviaBot_Questions[1]['Answers'][55] = {"Mogu","Les Mogu"};
 TriviaBot_Questions[1]['Category'][55] = 1;
 TriviaBot_Questions[1]['Points'][55] = 5;
 TriviaBot_Questions[1]['Hints'][55] = {""}
 
-TriviaBot_Questions[1]['Question'][56] = "These enemies are known as “the manifestations of negative on Pandaria.”";
-TriviaBot_Questions[1]['Answers'][56] = {"Sha","The Sha"};
+TriviaBot_Questions[1]['Question'][56] = "Ces ennemis sont la manifestation des émotions négatives en pandarie : .”";
+TriviaBot_Questions[1]['Answers'][56] = {"Sha","Les Sha"};
 TriviaBot_Questions[1]['Category'][56] = 1;
 TriviaBot_Questions[1]['Points'][56] = 5;
 TriviaBot_Questions[1]['Hints'][56] = {""}
 
-TriviaBot_Questions[1]['Question'][57] = "How many Artifact Weapons are empowered by the Wild Gods?";
-TriviaBot_Questions[1]['Answers'][57] = {"3","Three"};
+TriviaBot_Questions[1]['Question'][57] = "Combiens d'armes prodigieuses ont un liens avec les dieux sauvages (ursoc,etc) ?";
+TriviaBot_Questions[1]['Answers'][57] = {"3","trois"};
 TriviaBot_Questions[1]['Category'][57] = 1;
 TriviaBot_Questions[1]['Points'][57] = 5;
 TriviaBot_Questions[1]['Hints'][57] = {""}
 
-TriviaBot_Questions[1]['Question'][58] = "Which ancient Runeblade was in the possesion of Kael'Thas Sunstrider?";
+TriviaBot_Questions[1]['Question'][58] = "Quelle ancienne épée magique était  en la possesion de Kael'thas Haut Soleil ?";
 TriviaBot_Questions[1]['Answers'][58] = {"Felo'melorn","Felomelorn"};
 TriviaBot_Questions[1]['Category'][58] = 1;
 TriviaBot_Questions[1]['Points'][58] = 5;
 TriviaBot_Questions[1]['Hints'][58] = {""}
 
-TriviaBot_Questions[1]['Question'][59] = "Which Runeblade shattered Felo'melorn?";
-TriviaBot_Questions[1]['Answers'][59] = {"Frostmourne"};
+TriviaBot_Questions[1]['Question'][59] = "Quelle arme a brisé Felo'melorn ?";
+TriviaBot_Questions[1]['Answers'][59] = {"Frostmourne","Deuillegivre"};
 TriviaBot_Questions[1]['Category'][59] = 1;
 TriviaBot_Questions[1]['Points'][59] = 5;
 TriviaBot_Questions[1]['Hints'][59] = {""}
 
-TriviaBot_Questions[1]['Question'][60] = "Felo'melorn is the elven word for ___________ .";
-TriviaBot_Questions[1]['Answers'][60] = {"Flamestrike"};
+TriviaBot_Questions[1]['Question'][60] = "Felo'melorn est le mot elfique pour ___________ .";
+TriviaBot_Questions[1]['Answers'][60] = {"Flamestrike","choc de flammes"};
 TriviaBot_Questions[1]['Category'][60] = 1;
 TriviaBot_Questions[1]['Points'][60] = 5;
 TriviaBot_Questions[1]['Hints'][60] = {""}
 
-TriviaBot_Questions[1]['Question'][61] = "Felo'melorn gets stronger each time it is reforged. True/False?";
-TriviaBot_Questions[1]['Answers'][61] = {"True"};
+TriviaBot_Questions[1]['Question'][61] = "Felo'melorn devient plus puissante à chaque fois qu'elle est reforgée (vrai/faux)";
+TriviaBot_Questions[1]['Answers'][61] = {"vrai"};
 TriviaBot_Questions[1]['Category'][61] = 1;
 TriviaBot_Questions[1]['Points'][61] = 5;
 TriviaBot_Questions[1]['Hints'][61] = {""}
 
-TriviaBot_Questions[1]['Question'][62] = "Which dreadlord almost destroyed Dalaran?";
+TriviaBot_Questions[1]['Question'][62] = "Quel seigneur de l'effroi a failli détruire Dalaran ?";
 TriviaBot_Questions[1]['Answers'][62] = {"Kathra'natir","Kathranatir"};
 TriviaBot_Questions[1]['Category'][62] = 1;
 TriviaBot_Questions[1]['Points'][62] = 5;
 TriviaBot_Questions[1]['Hints'][62] = {""}
 
-TriviaBot_Questions[1]['Question'][63] = "Who was the first Guardian?";
+TriviaBot_Questions[1]['Question'][63] = "Qui était le premier gardien ?";
 TriviaBot_Questions[1]['Answers'][63] = {"Alodi"};
 TriviaBot_Questions[1]['Category'][63] = 1;
 TriviaBot_Questions[1]['Points'][63] = 5;
 TriviaBot_Questions[1]['Hints'][63] = {""}
 
-TriviaBot_Questions[1]['Question'][64] = "What is the name of the weapon from the first Guardian?";
-TriviaBot_Questions[1]['Answers'][64] = {"Ebonchill"};
+TriviaBot_Questions[1]['Question'][64] = "Quel est le nom de l'arme du premier gardien ?";
+TriviaBot_Questions[1]['Answers'][64] = {"Ebonchill","frissébène"};
 TriviaBot_Questions[1]['Category'][64] = 1;
 TriviaBot_Questions[1]['Points'][64] = 5;
 TriviaBot_Questions[1]['Hints'][64] = {""}
 
-TriviaBot_Questions[1]['Question'][65] = "Who wielded the weapon Aluneth,Greatstaff of the Magna?";
+TriviaBot_Questions[1]['Question'][65] = "Qui a brandit l'arme Aluneth, grand bâton de la magna ?";
 TriviaBot_Questions[1]['Answers'][65] = {"Aegwynn"};
 TriviaBot_Questions[1]['Category'][65] = 1;
 TriviaBot_Questions[1]['Points'][65] = 5;
 TriviaBot_Questions[1]['Hints'][65] = {""}
  
-TriviaBot_Questions[1]['Question'][66] = "What are the artifact weapon 'The Kingslayers' each called?";
-TriviaBot_Questions[1]['Answers'][66] = {"Anguish and Sorrow","Sorrow and Anguish","Anguish Sorrow","Sorrow Anguish"};
+TriviaBot_Questions[1]['Question'][66] = "Comment sont appelées les régicides (le nom de chacune des lames)";
+TriviaBot_Questions[1]['Answers'][66] = {"Angoisse Chagrin","Chagrin Angoisse","Angoisse et Chagrin","Chagrin et Angoisse"};
 TriviaBot_Questions[1]['Category'][66] = 1;
 TriviaBot_Questions[1]['Points'][66] = 5;
 TriviaBot_Questions[1]['Hints'][66] = {""}
 
-TriviaBot_Questions[1]['Question'][67] = "Which titanic watcher used the weapon 'The Silver Hand?'";
+TriviaBot_Questions[1]['Question'][67] = "Quel gardien des titans a utilisé l'arme 'la main d'argent' ";
 TriviaBot_Questions[1]['Answers'][67] = {"Tyr"};
 TriviaBot_Questions[1]['Category'][67] = 1;
 TriviaBot_Questions[1]['Points'][67] = 5;
 TriviaBot_Questions[1]['Hints'][67] = {""}
 
-TriviaBot_Questions[1]['Question'][68] = "How many different Legendaries does the Death Knight Class have in Legion?";
-TriviaBot_Questions[1]['Answers'][68] = {"13","thirteen"};
+TriviaBot_Questions[1]['Question'][68] = "Combien de légendaires la classe chevalier de la mort possède-t-elle à légion ?";
+TriviaBot_Questions[1]['Answers'][68] = {"13"};
 TriviaBot_Questions[1]['Category'][68] = 1;
 TriviaBot_Questions[1]['Points'][68] = 5;
 TriviaBot_Questions[1]['Hints'][68] = {""}
 
-TriviaBot_Questions[1]['Question'][69] = "How many different Legendaries does the the Demon Hunter Class have in Legion?";
+TriviaBot_Questions[1]['Question'][69] = "Combien de légendaires la classe chasseur de démons possède-t-elle à légion ?";
 TriviaBot_Questions[1]['Answers'][69] = {"10","ten"};
 TriviaBot_Questions[1]['Category'][69] = 1;
 TriviaBot_Questions[1]['Points'][69] = 5;
 TriviaBot_Questions[1]['Hints'][69] = {""}
 
-TriviaBot_Questions[1]['Question'][70] = "How many different Legendaries does the Druid Class have in Legion?";
+TriviaBot_Questions[1]['Question'][70] = "Combien de légendaires la classe druide possède-t-elle à légion ?";
 TriviaBot_Questions[1]['Answers'][70] = {"17","seventeen"};
 TriviaBot_Questions[1]['Category'][70] = 1;
 TriviaBot_Questions[1]['Points'][70] = 5;
 TriviaBot_Questions[1]['Hints'][70] = {""}
 
-TriviaBot_Questions[1]['Question'][71] = "How many different Legendaries does the Hunter Class have in Legion?";
+TriviaBot_Questions[1]['Question'][71] = "Combien de légendaires la classe chasseur possède-t-elle à légion ?";
 TriviaBot_Questions[1]['Answers'][71] = {"12","twelve"};
 TriviaBot_Questions[1]['Category'][71] = 1;
 TriviaBot_Questions[1]['Points'][71] = 5;
 TriviaBot_Questions[1]['Hints'][71] = {""}
 
-TriviaBot_Questions[1]['Question'][72] = "How many different Legendaries does the Mage Class have in Legion?";
+TriviaBot_Questions[1]['Question'][72] = "Combien de légendaires la classe mage possède-t-elle à légion ?";
 TriviaBot_Questions[1]['Answers'][72] = {"11","eleven"};
 TriviaBot_Questions[1]['Category'][72] = 1;
 TriviaBot_Questions[1]['Points'][72] = 5;
 TriviaBot_Questions[1]['Hints'][72] = {""}
 
-TriviaBot_Questions[1]['Question'][73] = "How many different Legendaries does the Monk Class have in Legion?";
+TriviaBot_Questions[1]['Question'][73] = "Combien de légendaires la classe moine possède-t-elle à légion ?";
 TriviaBot_Questions[1]['Answers'][73] = {"16","sixteen"};
 TriviaBot_Questions[1]['Category'][73] = 1;
 TriviaBot_Questions[1]['Points'][73] = 5;
 TriviaBot_Questions[1]['Hints'][73] = {""}
 
-TriviaBot_Questions[1]['Question'][74] = "How many different Legendaries does the Paladin Class have in Legion?";
+TriviaBot_Questions[1]['Question'][74] = "Combien de légendaires la moine possède-t-elle à légion ?";
 TriviaBot_Questions[1]['Answers'][74] = {"12","twelve"};
 TriviaBot_Questions[1]['Category'][74] = 1;
 TriviaBot_Questions[1]['Points'][74] = 5;
 TriviaBot_Questions[1]['Hints'][74] = {""}
 
-TriviaBot_Questions[1]['Question'][75] = "How many different Legendaries does the Priest Class have in Legion?";
+TriviaBot_Questions[1]['Question'][75] = "Combien de légendaires la classe prêtre possède-t-elle à légion ?";
 TriviaBot_Questions[1]['Answers'][75] = {"15","fifteen"};
 TriviaBot_Questions[1]['Category'][75] = 1;
 TriviaBot_Questions[1]['Points'][75] = 5;
 TriviaBot_Questions[1]['Hints'][75] = {""}
 
-TriviaBot_Questions[1]['Question'][76] = "How many different Legendaries does the Rogue Class have in Legion?";
+TriviaBot_Questions[1]['Question'][76] = "Combien de légendaires la classe voleur possède-t-elle à légion ?";
 TriviaBot_Questions[1]['Answers'][76] = {"10","ten"};
 TriviaBot_Questions[1]['Category'][76] = 1;
 TriviaBot_Questions[1]['Points'][76] = 5;
 TriviaBot_Questions[1]['Hints'][76] = {""}
 
-TriviaBot_Questions[1]['Question'][77] = "How many different Legendaries does the Shaman Class have in Legion?";
+TriviaBot_Questions[1]['Question'][77] = "Combien de légendaires la classe chaman possède-t-elle à légion ?";
 TriviaBot_Questions[1]['Answers'][77] = {"14","fourteen"};
 TriviaBot_Questions[1]['Category'][77] = 1;
 TriviaBot_Questions[1]['Points'][77] = 5;
 TriviaBot_Questions[1]['Hints'][77] = {""}
 
-TriviaBot_Questions[1]['Question'][78] = "How many different Legendaries does the Warlock Class have in Legion?";
+TriviaBot_Questions[1]['Question'][78] = "Combien de légendaires la classe démoniste possède-t-elle à légion ??";
 TriviaBot_Questions[1]['Answers'][78] = {"13","thirteen"};
 TriviaBot_Questions[1]['Category'][78] = 1;
 TriviaBot_Questions[1]['Points'][78] = 5;
 TriviaBot_Questions[1]['Hints'][78] = {""}
 
-TriviaBot_Questions[1]['Question'][79] = "How many different Legendaries does the Warrior Class have in Legion?";
+TriviaBot_Questions[1]['Question'][79] = "Combien de légendaires la classe guerrier possède-t-elle à légion ?";
 TriviaBot_Questions[1]['Answers'][79] = {"11","eleven"};
 TriviaBot_Questions[1]['Category'][79] = 1;
 TriviaBot_Questions[1]['Points'][79] = 5;
 TriviaBot_Questions[1]['Hints'][79] = {""}
+
+TriviaBot_Questions[1]['Question'][201] = "Combien de mauvais légendaires zaza possède-t-il ?";
+TriviaBot_Questions[1]['Answers'][201] = {"3","eleven"};
+TriviaBot_Questions[1]['Category'][201] = 1;
+TriviaBot_Questions[1]['Points'][201] = 5;
+TriviaBot_Questions[1]['Hints'][201] = {""}
 
 TriviaBot_Questions[1]['Question'][80] = "How many different Legendaries are shared between all classes?";
 TriviaBot_Questions[1]['Answers'][80] = {"2","two"};
